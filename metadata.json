@@ -1,0 +1,8 @@
+{
+  "name": "3 3D Map Driver",
+  "description": "3D car driving game with accurate satellite map reconstruction and real-time physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
